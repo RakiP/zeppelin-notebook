@@ -1,0 +1,93 @@
+{
+	"sac": {
+		"lib_ver": "0.9",
+		"topic": "sat20-sanoma"
+	},
+	"app": {
+		"sit": "nunl",
+		"id": "nunl_android",
+		"ver": "9.9.0-STAGING"
+	},
+	"device": {
+		"type": "mobile",
+		"os": {
+			"name": "Android",
+			"ver": "9",
+			"family": "linux",
+			"device": "SM-G975F",
+			"manufacturer": "samsung"
+		},
+		"uniqID": "61fd1e68aee79408",
+		"screen": "1440x2730",
+		"lang": "en_US"
+	},
+	"user": {
+		"login": {
+			"id": "dca4d1b280bc12961f6c485f7617ea63"
+		},
+		"dev": {
+			"type": "android_device",
+			"id": "61fd1e68aee79408"
+		}
+	},
+	"ids": [{
+		"type": "gigya",
+		"id": "7a825fea444b4ba8b306a9e20bcf7de3"
+	}, {
+		"id": "61fd1e68aee79408",
+		"type": "AndroidID"
+	}, {
+		"id": "fea4ec9a-6ab8-4284-bf40-88d328ce6927",
+		"type": "AndroidAdvertisingID"
+	}],
+	"events": [{
+		"ts": "2019-08-05 14:22:37.990+0200",
+		"cha": "app",
+		"session_id": "b6a8dfa6-605a-4cb3-a268-dd9f16e28d15",
+		"type": "custom_event",
+		"custom": [{
+			"key": "marketingConsent",
+			"value": "1"
+		}, {
+			"key": "push_status",
+			"value": "on"
+		}, {
+			"key": "odc_status",
+			"value": "true"
+		}, {
+			"key": "label",
+			"value": "{\"sit\":\"nunl\",\"cid\":\"5974252\",\"type\":\"article\"}"
+		}, {
+			"key": "alibi",
+			"value": "frontpage"
+		}, {
+			"key": "push_tags",
+			"value": "breaking_sport"
+		}, {
+			"key": "spns_device_secret",
+			"value": "A7DrKxWqBxsPbH35baz7U92gsFdFje4EzVujvXCpvxR8fgaaFaFKvEc4KTL2Uyp"
+		}, {
+			"key": "screen_orientation",
+			"value": "portrait"
+		}, {
+			"key": "device_token",
+			"value": "fweHuL_Tls8:APA91bGiY-e8jLnrZDjrxu74xlppDitUQtGTC4uvrxxjQhFUXqjygcjORonI5vqu4-RLFUoiW_iLoaT9lmRvnjV404t-RC__A9IMBb5KP_aQHc554YRy77mOZh5J4L5mym_5q02OMIOy"
+		}, {
+			"key": "action",
+			"value": "impression"
+		}, {
+			"key": "theme",
+			"value": "normal"
+		}, {
+			"key": "limit-ad-tracking",
+			"value": "off"
+		}, {
+			"key": "category",
+			"value": "recommended"
+		}, {
+			"key": "location_status",
+			"value": "off"
+		}]
+	}],
+	"sent_ts": "2019-08-05 14:22:37.993+0200"
+}
